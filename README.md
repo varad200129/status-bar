@@ -1,0 +1,2 @@
+# status-bar
+text
